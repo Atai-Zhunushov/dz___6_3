@@ -1,0 +1,65 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 1400px;
+    margin: 0 auto;
+}
+.span {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: Arial;
+}
+.span::after {
+    content: "₽";
+    margin-left: 5px;
+}
+.description {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+.img {
+    position: relative;
+}
+.img_inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    width: 40px;
+    height: 17px;
+    background-color: red;
+    border-radius: 3px;
+}
+.span_price {
+    font-size: 15px;
+    color: white;
+}
+
+.span_2::after {
+    content: "₽";
+    margin-left: 3px;
+}
+.span_2 {
+
+    position: relative;
+    padding-left: 7px;
+    font-size: 18px;
+    color: grey;
+    margin-top: 5px;
+}
+
+.border_span {
+    border: 1px solid grey;
+    position: absolute;
+    width: 55px;
+    top: 10px;
+    left: 8px;
+}
+

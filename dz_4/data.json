@@ -1,0 +1,86 @@
+[
+   {
+      "price": 100,
+      "img": "images/1.jpeg",
+      "description": "Еда/Азбука фруктов"
+   },
+   {
+      "price": 300,
+      "img": "images/2.jpeg",
+      "description": "super airpods"
+   },
+   {
+      "price": 200,
+      "img": "images/3.jpeg",
+      "description": "super airpods"
+   },
+   {
+      "price": 300,
+      "img": "images/4.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 150,
+      "img": "images/5.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 400,
+      "img": "images/6.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 250,
+      "img": "images/7.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 400,
+      "img": "images/8.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 299,
+      "img": "images/9.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 350,
+      "img": "images/9.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 300,
+      "img": "images/11.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 399,
+      "img": "images/12.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 190,
+      "img": "images/13.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 600,
+      "img": "images/14.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 250,
+      "img": "images/15.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 200,
+      "img": "images/16.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 240,
+      "img": "images/17.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 500,
+      "img": "images/18.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 600,
+      "img": "images/19.jpeg",
+      "description": "super airpods"
+   },{
+      "price": 700,
+      "img": "images/20.jpeg",
+      "description": "super airpods"
+   }
+]
